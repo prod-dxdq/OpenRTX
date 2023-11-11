@@ -10,6 +10,7 @@ Currently OpenRTX is being actively developed for the following radios:
 - TYT MD-UV380/390
 - TYT MD-9600
 - Radioddity GD77 and Baofeng DM-1801
+- Cobalt Cowboy
 
 This firmware is *highly experimental* and currently under development, this means
 that it may not have all the expected functionalities. Anyway, contributions and testing will be warmly welcomed and accepted!
